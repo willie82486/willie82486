@@ -1,48 +1,48 @@
 <h1 align="center">Hi 👋, I'm Shin-Wei, Chiu</h1>
-
-
+## About Me
+I am currently a MSCS student at National Taiwan University (NTU)
+I am also working as a Software Development Intern at Blockchain Security Corp.
 - 📫 How to reach me **willy82486@gmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/willy-chiu/](https://www.linkedin.com/in/willy-chiu/)
 
--### Stats
+<!--### Stats
 | <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=willy82486&show_icons=true&theme=radical" width="400"/> | <img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willy82486&layout=compact&theme=radical" width="400"/> |
-|----------------------------|----------------------------|
+|----------------------------|----------------------------|-->
 
 <!--<img alt="my stats" align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=willy82486&show_icons=true"/>
 <img alt="top langs" align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willy82486&layout=compact"/>-->
 
 
-<!--<picture>
+<picture>
     <source
-        srcset="https://github-readme-stats-alan-kuan.vercel.app/api?username=willy82486&show_icons=true&theme=radical"
+        srcset="https://github-readme-stats-alan-kuan.vercel.app/api?username=willy82486&show_icons=true&theme=dark"
         media="(prefers-color-scheme: dark)"
     />
     <source
-        srcset="https://github-readme-stats-alan-kuan.vercel.app/api?username=willy82486&show_icons=true"
+        srcset="https://github-readme-stats-alan-kuan.vercel.app/api?username=willy82486&show_icons=true&theme=dark"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img
         alt="Refresh the page to see my GitHub Stats"
         height="190px" align="center"
-        src="https://github-readme-stats-alan-kuan.vercel.app/api?username=willy82486&show_icons=true"
+        src="https://github-readme-stats-alan-kuan.vercel.app/api?username=willy82486&show_icons=true&theme=dark"
     />
 </picture>
 <picture>
     <source
-        srcset="https://github-readme-stats-alan-kuan.vercel.app/api/top-langs?username=willy82486&layout=compact&hide=jupyter%20notebook&theme=radical"
+        srcset="https://github-readme-stats-alan-kuan.vercel.app/api/top-langs?username=willy82486&layout=compact&hide=jupyter%20notebook&theme=dark"
         media="(prefers-color-scheme: dark)"
     />
     <source
-        srcset="https://github-readme-stats-alan-kuan.vercel.app/api/top-langs?username=willy82486&layout=compact&hide=jupyter%20notebook"
+        srcset="https://github-readme-stats-alan-kuan.vercel.app/api/top-langs?username=willy82486&layout=compact&hide=jupyter%20notebook&theme=dark"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img
         alt="Refresh the page to see the most used languages of me"
         height="190px" align="center"
-        src="https://github-readme-stats-alan-kuan.vercel.app/api/top-langs?username=willy82486&layout=compact&hide=jupyter%20notebook"
+        src="https://github-readme-stats-alan-kuan.vercel.app/api/top-langs?username=willy82486&layout=compact&hide=jupyter%20notebook&theme=dark"
     />
-</picture>-->
+</picture>
 
 
 <!--<h3 align="left">Connect with me</h3>
