@@ -15,7 +15,7 @@
 
 <picture>
     <source
-        srcset="https://github-readme-stats-alan-kuan.vercel.app/api?username=willy82486&show_icons=true"
+        srcset="https://github-readme-stats-alan-kuan.vercel.app/api?username=willy82486&show_icons=true&theme=radical"
         media="(prefers-color-scheme: dark)"
     />
     <source
@@ -30,7 +30,7 @@
 </picture>
 <picture>
     <source
-        srcset="https://github-readme-stats-alan-kuan.vercel.app/api/top-langs?username=willy82486&layout=compact&hide=jupyter%20notebook&theme=gruvbox"
+        srcset="https://github-readme-stats-alan-kuan.vercel.app/api/top-langs?username=willy82486&layout=compact&hide=jupyter%20notebook&theme=radical"
         media="(prefers-color-scheme: dark)"
     />
     <source
