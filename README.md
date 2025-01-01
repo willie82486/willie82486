@@ -15,7 +15,7 @@
 
 <picture>
     <source
-        srcset="https://github-readme-stats-alan-kuan.vercel.app/api?username=willy82486&show_icons=true&theme=gruvbox"
+        srcset="https://github-readme-stats-alan-kuan.vercel.app/api?username=willy82486&show_icons=true"
         media="(prefers-color-scheme: dark)"
     />
     <source
