@@ -5,10 +5,8 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/willy-chiu/](https://www.linkedin.com/in/willy-chiu/)
 
+[![ShinWei's GitHub stats](https://github-readme-stats.vercel.app/api?username=willy82486)](https://github.com/anuraghazra/github-readme-stats)
 
-
-| <a href="https://github.com/willy82486/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="ShinWei's github stats" /></a> | <a href="https://github.com/willy82486/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
 
 
 <h3 align="left">Connect with me:</h3>
