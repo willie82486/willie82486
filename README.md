@@ -20,7 +20,7 @@ I am also working as a Bankend Engineer Intern at Blockchain Security Corp.
         media="(prefers-color-scheme: dark)"
     />
     <source
-        srcset="https://github-readme-stats.vercel.app/api?username=willy82486&show_icons=true&theme=dark"
+        srcset="https://github-readme-stats.vercel.app/api?username=willy82486&show_icons=true&theme=gruvbox"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img
@@ -35,7 +35,7 @@ I am also working as a Bankend Engineer Intern at Blockchain Security Corp.
         media="(prefers-color-scheme: dark)"
     />
     <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=willy82486&layout=compact&hide=jupyter%20notebook&theme=dark"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=willy82486&layout=compact&hide=jupyter%20notebook&theme=gruvbox"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img
