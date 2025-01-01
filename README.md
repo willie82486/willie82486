@@ -7,9 +7,9 @@
 
 <h3 align="left">Stats</h3>
 <p>
-<img alt="my stats" align="left" width="55%" src="https://github-readme-stats.vercel.app/api?username=willy82486&show_icons=true"/>
+<img alt="my stats" align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=willy82486&show_icons=true"/>
 
-<img alt="top langs" align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willy82486&layout=compact"/>
+<img alt="top langs" align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willy82486&layout=compact"/>
 </p>
 
 
