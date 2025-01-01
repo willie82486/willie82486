@@ -5,7 +5,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/willy-chiu/](https://www.linkedin.com/in/willy-chiu/)
 
-[![ShinWei's GitHub stats](https://github-readme-stats.vercel.app/api?username=willy82486)](https://github.com/anuraghazra/github-readme-stats)
+[![ShinWei's GitHub stats](https://github-readme-stats.vercel.app/api?username=willy82486&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
