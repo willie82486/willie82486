@@ -5,12 +5,11 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/willy-chiu/](https://www.linkedin.com/in/willy-chiu/)
 
-<h3 align="left">Stats</h3>
-<p>
-<img alt="my stats" align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=willy82486&show_icons=true"/>
-
-<img alt="top langs" align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willy82486&layout=compact"/>
-</p>
+### Stats
+| <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=willy82486&show_icons=true" width="400"/> | <img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willy82486&layout=compact" width="400"/> |
+|----------------------------|----------------------------|
+<!--<img alt="my stats" align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=willy82486&show_icons=true"/>
+<img alt="top langs" align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willy82486&layout=compact"/>-->
 
 
 
