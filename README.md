@@ -5,12 +5,44 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/willy-chiu/](https://www.linkedin.com/in/willy-chiu/)
 
-### Stats
+<!--### Stats
 | <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=willy82486&show_icons=true" width="400"/> | <img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willy82486&layout=compact" width="400"/> |
-|----------------------------|----------------------------|
+|----------------------------|----------------------------|-->
+
 <!--<img alt="my stats" align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=willy82486&show_icons=true"/>
 <img alt="top langs" align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willy82486&layout=compact"/>-->
 
+
+<picture>
+    <source
+        srcset="https://github-readme-stats-alan-kuan.vercel.app/api?username=willy82486&show_icons=true&theme=gruvbox"
+        media="(prefers-color-scheme: dark)"
+    />
+    <source
+        srcset="https://github-readme-stats-alan-kuan.vercel.app/api?username=willy82486&show_icons=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img
+        alt="Refresh the page to see my GitHub Stats"
+        height="190px" align="center"
+        src="https://github-readme-stats-alan-kuan.vercel.app/api?username=willy82486&show_icons=true"
+    />
+</picture>
+<picture>
+    <source
+        srcset="https://github-readme-stats-alan-kuan.vercel.app/api/top-langs?username=willy82486&layout=compact&hide=jupyter%20notebook&theme=gruvbox"
+        media="(prefers-color-scheme: dark)"
+    />
+    <source
+        srcset="https://github-readme-stats-alan-kuan.vercel.app/api/top-langs?username=willy82486&layout=compact&hide=jupyter%20notebook"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img
+        alt="Refresh the page to see the most used languages of me"
+        height="190px" align="center"
+        src="https://github-readme-stats-alan-kuan.vercel.app/api/top-langs?username=willy82486&layout=compact&hide=jupyter%20notebook"
+    />
+</picture>
 
 
 <!--<h3 align="left">Connect with me</h3>
