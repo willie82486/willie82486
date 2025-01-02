@@ -7,14 +7,19 @@ I am also working as a Bankend Engineer Intern at Blockchain Security Corp.
 - 📄 Know about my experiences [https://www.linkedin.com/in/willy-chiu/](https://www.linkedin.com/in/willy-chiu/)
 
 
-| <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=willy82486&show_icons=true&theme=gruvbox" width="400"/> | <img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willy82486&layout=compact&theme=gruvbox" width="400"/> |
-|----------------------------|----------------------------|
+<!--| <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=willy82486&show_icons=true&theme=gruvbox" width="400"/> | <img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willy82486&layout=compact&theme=gruvbox" width="400"/> |
+|----------------------------|----------------------------|-->
 
 <!--<img alt="my stats" align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=willy82486&show_icons=true"/>
 <img alt="top langs" align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willy82486&layout=compact"/>-->
 
+[![ShinWei's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=willy82486&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/willy82486/github-readme-stats#gh-dark-mode-only)
+[![ShinWei's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=willy82486&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/willy82486/github-readme-stats#gh-light-mode-only)
+[![ShinWei's Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs?username=willy82486&layout=compact&hide=jupyter%20notebook&theme=dark#gh-dark-mode-only)](https://github.com/willy82486/github-readme-stats#gh-dark-mode-only)
+[![ShinWei's Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs?username=willy82486&layout=compact&hide=jupyter%20notebook&theme=default#gh-light-mode-only)](https://github.com/willy82486/github-readme-stats#gh-light-mode-only)
 
-<picture>
+
+<!--<picture>
     <source
     srcset="https://github-readme-stats.vercel.app/api?username=willy82486&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
@@ -43,7 +48,7 @@ I am also working as a Bankend Engineer Intern at Blockchain Security Corp.
         height="190px" align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=willy82486&layout=compact&hide=jupyter%20notebook"
     />
-</picture>
+</picture>-->
 
 
 <!--<h3 align="left">Connect with me</h3>
