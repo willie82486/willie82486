@@ -4,7 +4,7 @@
 I am currently a MSCS student at National Taiwan University (NTU)\
 I am also working as a Bankend Engineer Intern at Blockchain Security Corp.
 - 📫 How to reach me **willy82486@gmail.com**
-- 📄 Know about my experiences [https://www.linkedin.com/in/willy-chiu/](https://www.linkedin.com/in/willy-chiu/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/willy-chiu/](https://www.linkedin.com/in/willie-chiu/)
 
 
 <!--| <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=willy82486&show_icons=true&theme=gruvbox" width="400"/> | <img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willy82486&layout=compact&theme=gruvbox" width="400"/> |
