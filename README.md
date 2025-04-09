@@ -15,8 +15,8 @@ I am also working as a Bankend Engineer Intern at Blockchain Security Corp.
 
 [![ShinWei's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=willie82486&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![ShinWei's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=willie82486&show_icons=true&theme=gruvbox#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![ShinWei's Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs?username=willie82486&layout=compact&hide=jupyter%20notebook&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![ShinWei's Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs?username=willie82486&layout=compact&hide=jupyter%20notebook&theme=gruvbox#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![ShinWei's Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs?username=willie82486&layout=compact&hide=jupyter%20notebook,html&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![ShinWei's Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs?username=willie82486&layout=compact&hide=jupyter%20notebook,html&theme=gruvbox#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 <!--<picture>
     <source
