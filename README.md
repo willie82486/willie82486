@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shin-Wei, Chiu</h1>
 
 ## About Me
-I am currently a MSCS student at National Taiwan University (NTU)\
+I am currently a MSCS student at National Taiwan University (NTU)
 <!--I am also working as a Bankend Engineer Intern at Blockchain Security Corp. -->
 - 📫 How to reach me **willy82486@gmail.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/willy-chiu/](https://www.linkedin.com/in/willie-chiu/)
