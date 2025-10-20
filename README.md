@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Shin-Wei, Chiu</h1>
+<h1 align="center">Hi 👋, I'm Willie (Shin-Wei), Chiu</h1>
 
 ## About Me
-I am currently a MSCS student at National Taiwan University (NTU)
+I hold an M.S. in Computer Science from National Taiwan University (NTU) and currently work as a software engineer at Nvidia.
 <!--I am also working as a Bankend Engineer Intern at Blockchain Security Corp. -->
 - 📫 How to reach me **willy82486@gmail.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/willy-chiu/](https://www.linkedin.com/in/willie-chiu/)
